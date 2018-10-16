@@ -1,0 +1,3 @@
+﻿  main.cpp
+d:\workspace\simu\memberb\memberb\main.cpp(15): warning C4326: “main”的返回类型应为“int”而非“void”
+  memberB.vcxproj -> D:\WorkSpace\Simu\memberB\x64\Debug\memberB.exe
